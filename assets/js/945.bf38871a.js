@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrigada_sos=self.webpackChunkbrigada_sos||[]).push([[945],{6945:function(s,a,e){e.r(a)}}]);
