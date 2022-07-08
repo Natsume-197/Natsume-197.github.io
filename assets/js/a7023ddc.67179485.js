@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrigada_sos=self.webpackChunkbrigada_sos||[]).push([[713],{3457:a=>{a.exports=JSON.parse('[{"label":"Informaci\xf3n","permalink":"/blog/tags/informacion","count":1}]')}}]);
