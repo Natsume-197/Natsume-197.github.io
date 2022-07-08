@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrigada_sos=self.webpackChunkbrigada_sos||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\xa1Bievenidos a la Brigada SOS 2.0!","permalink":"/blog/bienvenida"}]}')}}]);

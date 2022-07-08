@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrigada_sos=self.webpackChunkbrigada_sos||[]).push([[713],{3457:function(a){a.exports=JSON.parse('{"/blog/tags/informacion":{"allTagsPath":"/blog/tags","slug":"/blog/tags/informacion","name":"Informaci\xf3n","count":1,"permalink":"/blog/tags/informacion"}}')}}]);
